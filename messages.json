@@ -1,0 +1,140 @@
+{
+    "732999498": {
+        "name": "Mariya Kozitskaya",
+        "nickname": "@Mafiya_14",
+        "reviews": [
+            {
+                "experience_description": "dggrtg",
+                "satisfaction_rating": 2,
+                "interaction_process_rating": 3,
+                "multiple_ratings": {
+                    "Working atmosphere in the team": 4,
+                    "Convenience of schedule": 1,
+                    "Activity of founders": 5,
+                    "Activity of the whole team": 2,
+                    "Opportunities for self-realization and creativity": 3
+                },
+                "professional_development_effect": "gfdtghthg",
+                "overall_satisfaction": 3,
+                "positions": [
+                    "Tracker/Project Manager",
+                    "DevOps Engineer"
+                ]
+            },
+            {
+                "experience_description": "\u0440\u0433\u043e\u043b\u043e\u0440",
+                "satisfaction_rating": 4,
+                "interaction_process_rating": 4,
+                "multiple_ratings": {
+                    "Working atmosphere in the team": 4,
+                    "Convenience of schedule": 4,
+                    "Activity of founders": 4,
+                    "Activity of the whole team": 4,
+                    "Opportunities for self-realization and creativity": 4
+                },
+                "professional_development_effect": "\u043b\u0434\u043e\u0440\u0433\u0448\u0440\u0448\u0433",
+                "overall_satisfaction": 4,
+                "positions": [
+                    "Designer",
+                    "Frontend Developer"
+                ]
+            },
+            {
+                "experience_description": "\u044c\u0440\u043f\u043d\u043e",
+                "satisfaction_rating": 2,
+                "interaction_process_rating": 4,
+                "multiple_ratings": {
+                    "Working atmosphere in the team": 3,
+                    "Convenience of schedule": 3,
+                    "Activity of founders": 3,
+                    "Activity of the whole team": 3,
+                    "Opportunities for self-realization and creativity": 3
+                },
+                "professional_development_effect": "\u043f\u043d\u043e\u0435\u043f\u043d\u043e\u0435",
+                "overall_satisfaction": 3,
+                "positions": [
+                    "Backend Developer",
+                    "Designer"
+                ]
+            },
+            {
+                "experience_description": "\u0442\u0438\u043f\u043b\u0442",
+                "satisfaction_rating": 3,
+                "interaction_process_rating": 3,
+                "multiple_ratings": {
+                    "Working atmosphere in the team": 3,
+                    "Convenience of schedule": 3,
+                    "Activity of founders": 3,
+                    "Activity of the whole team": 3,
+                    "Opportunities for self-realization and creativity": 3
+                },
+                "professional_development_effect": "\u0430\u0438\u0430\u0438\u043f\u0442",
+                "overall_satisfaction": 3,
+                "positions": [
+                    "Fundraising Manager"
+                ]
+            },
+            {
+                "experience_description": "\u0441\u0430\u044b\u0432\u0430\u0441\u044b",
+                "satisfaction_rating": 2,
+                "interaction_process_rating": 3,
+                "multiple_ratings": {
+                    "Working atmosphere in the team": 4,
+                    "Convenience of schedule": 2,
+                    "Activity of founders": 3,
+                    "Activity of the whole team": 4,
+                    "Opportunities for self-realization and creativity": 2
+                },
+                "professional_development_effect": "\u043f\u0440\u0442\u043f\u0442\u043f",
+                "overall_satisfaction": 3,
+                "positions": [
+                    "Data Scientist",
+                    "Frontend Developer"
+                ]
+            },
+            {
+                "experience_description": "\u0430\u0432\u0430\u0432\u0430",
+                "satisfaction_rating": 3,
+                "interaction_process_rating": 2,
+                "multiple_ratings": {
+                    "Working atmosphere in the team": 4,
+                    "Convenience of schedule": 3,
+                    "Activity of founders": 4,
+                    "Activity of the whole team": 1,
+                    "Opportunities for self-realization and creativity": 2
+                },
+                "professional_development_effect": "\u0430\u043f\u0432\u0430\u043f\u0432",
+                "overall_satisfaction": 5,
+                "positions": [
+                    "Content Creator",
+                    "Backend Developer",
+                    "Designer"
+                ]
+            }
+        ]
+    },
+    "949898773": {
+        "name": "Anna / Thinking Partner",
+        "nickname": "@ru_coach",
+        "reviews": [
+            {
+                "experience_description": "\u043f\u043e\u044b\u0440\u043c\u044b\u043e \u043e",
+                "satisfaction_rating": 4,
+                "interaction_process_rating": 5,
+                "multiple_ratings": {
+                    "Working atmosphere in the team": 5,
+                    "Convenience of schedule": 4,
+                    "Activity of founders": 5,
+                    "Activity of the whole team": 5,
+                    "Opportunities for self-realization and creativity": 5
+                },
+                "professional_development_effect": "\u0432\u0440\u043b\u043e\u043c\u044b\u044e\u0430",
+                "overall_satisfaction": 5,
+                "positions": [
+                    "Fundraising Manager",
+                    "Psychologist"
+                ]
+            }
+        ]
+    }
+}
