@@ -4,8 +4,8 @@ import json
 import os
 
 # Создаем экземпляр бота
-API_TOKEN = '7220050123:AAHhVILqr6u3wNspLRj0AOUUSNGbu_Y8KSg'
-bot = telebot.TeleBot(API_TOKEN)
+TOKEN = os.getenv('API_TOKEN')
+bot = telebot.TeleBot(TOKEN)
 DATA_FILE = 'messages.json'  # Укажите полный путь к файлу, если необходимо
 
 # Create dictionaries to store user states and temporary data
