@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  tiddletgbot:
+    image: $AWS_ECR_REPOSITORY/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:latest
+    restart: always
+    environment:
+      - API_TOKEN=$API_TOKEN
+    volumes:
+      - /srv/tiddle/tgbot:/app/data
